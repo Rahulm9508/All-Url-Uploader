@@ -113,11 +113,11 @@ python3 bot.py
 <br>
 <h1>⁉ Questions</h1>
 
-<p>For questions and support please use <a href="https://github.com/kalanakt/All-Url-Uploader/discussions" target="_blank" rel="noopener noreferrer">Discussions</a>. The issue list of this repo is <strong>exclusively</strong> for bug reports and feature requests.</p>
+<p>For questions and support please use <a href="https://github.com/Rahulm9508/All-Url-Uploader/discussions" target="_blank" rel="noopener noreferrer">Discussions</a>. The issue list of this repo is <strong>exclusively</strong> for bug reports and feature requests.</p>
 <br>
 <h1>⚠️ Issues</h1>
 
-<p>Please make sure to read the <a href="https://github.com/kalanakt/All-Url-Uploader/discussions/categories/issue-reporting-checklist" target="_blank" rel="noopener noreferrer">Issue Reporting Checklist</a>. before opening an <a href="https://github.com/kalanakt/All-Url-Uploader/issues" target="_blank" rel="noopener noreferrer">issue</a>. Issues not conforming to the guidelines may be closed immediately.</p>
+<p>Please make sure to read the <a href="https://github.com/Rahulm9508/All-Url-Uploader/discussions/categories/issue-reporting-checklist" target="_blank" rel="noopener noreferrer">Issue Reporting Checklist</a>. before opening an <a href="https://github.com/kalanakt/All-Url-Uploader/issues" target="_blank" rel="noopener noreferrer">issue</a>. Issues not conforming to the guidelines may be closed immediately.</p>
 <br>
 <h1>📜 Changelog</h1>
 
